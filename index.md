@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+#---
+layout: post
+title: Blogging Like a Hacker
+---
+
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ars3nicum/ars3nicum.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
